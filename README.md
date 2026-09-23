@@ -1,2 +1,2 @@
-# Lakiiiii
-HI :DDDD
+print("Hello World")
+
